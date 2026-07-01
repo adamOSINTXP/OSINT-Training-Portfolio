@@ -49,6 +49,6 @@ The findings documented within this repository are intended solely to demonstrat
 
 ---
 
-**Author:** John Doe
+**Author:** Adam
 
 **Focus Areas:** OSINT • Intelligence Analysis • Investigations • Digital Research • Geolocation
