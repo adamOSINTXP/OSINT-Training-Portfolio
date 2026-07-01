@@ -1,0 +1,103 @@
+# Case File: TL-2026-001
+
+## Investigation Title
+Streamer Geolocation
+
+| Field | Value |
+|-------|-------|
+| Platform | Trace Labs |
+| Category | Geolocation (GEOINT) |
+| Classification | Training Exercise |
+| Status | Completed |
+| Date Completed | July 1, 2026 |
+
+---
+
+# Executive Summary
+
+This investigation involved identifying the city depicted in a still image from a fictional livestream that abruptly disconnected. Using publicly available open-source intelligence (OSINT) resources, the location was identified through visual analysis and image-based searching. The investigation concluded that the image was taken near County Hall in London, England.
+
+---
+
+# Scenario
+
+A livestream unexpectedly ended without further communication. The objective was to determine the city where the streamer was located using only the provided image.
+
+---
+
+# Investigation Objective
+
+Identify the city shown in the supplied image using publicly available OSINT techniques.
+
+---
+
+# Evidence Provided
+
+- One still image captured from a fictional livestream.
+- No metadata or additional contextual information.
+
+---
+
+# Investigation Methodology
+
+The investigation began with a visual examination of the provided image. A reverse image search was then conducted using Google Images to identify recognizable landmarks and potential matches. Matching imagery led to the identification of County Hall, confirming the location as London, England.
+
+---
+
+# Investigation Process
+
+## Initial Observations
+
+The provided image depicted a busy urban environment with a mixture of historic and modern architecture. Several distinctive buildings and public spaces were visible, making the image suitable for landmark identification.
+
+## Research
+
+A reverse image search was performed using **Google Images**. Similar images were located that identified the prominent building as **County Hall** in London.
+
+## Verification
+
+The identified landmark was reviewed to ensure it matched the architectural features visible in the supplied image. The landmark's location confirmed the city as London, England.
+
+---
+
+# Findings
+
+**Identified Landmark:** County Hall
+
+**Identified City:** London, England, United Kingdom
+
+---
+
+# Confidence Assessment
+
+**Confidence:** High
+
+The conclusion was based on a recognizable landmark identified through reverse image searching and verified against publicly available imagery.
+
+---
+
+# Tools Used
+
+- Google Images
+
+---
+
+# Skills Demonstrated
+
+- Image Analysis
+- Landmark Identification
+- Reverse Image Searching
+- Geolocation (GEOINT)
+- OSINT Documentation
+
+---
+
+# Lessons Learned
+
+This exercise demonstrated how recognizable landmarks can significantly reduce the time required to geolocate an image. It also reinforced the value of reverse image searching as an effective starting point when distinctive architecture is present.
+
+---
+
+# Ethical Statement
+
+This investigation was completed as part of a fictional Trace Labs OSINT training exercise using publicly available information. No intrusive techniques or unauthorized access were used.
